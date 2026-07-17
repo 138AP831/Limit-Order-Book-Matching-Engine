@@ -58,6 +58,8 @@ order's price:
 Trades always execute **at the maker's price** (the resting order's price),
 not the taker's — this is standard exchange behavior.
 
+![Matching engine architecture](architecture.svg)
+
 ### Example walkthrough
 
 ```
